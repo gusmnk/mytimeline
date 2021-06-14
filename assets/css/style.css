@@ -1,0 +1,17 @@
+header {
+    padding: 0 auto;
+  background-color: black;
+}
+h1 {
+  font-size: 0.8rem;
+
+  color: whitesmoke;
+  text-align: center;
+}
+
+nav {
+  width: 100vw;
+  padding: 0 auto;
+  margin: 0;
+  
+}
